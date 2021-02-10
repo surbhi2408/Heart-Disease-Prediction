@@ -8,3 +8,7 @@ The project involved analysis of the heart disease patient dataset with proper d
   <li> Support Vector Machine (Linear) </li>
   <li> LightGBM Classifier </li>
 </ol>
+
+I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
+
+Dataset Used: https://www.kaggle.com/ronitf/heart-disease-uci
